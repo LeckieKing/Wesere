@@ -4,12 +4,12 @@ An automated token loading system for smart electricity meters with M-Pesa integ
 
 ## Features
 
-- 🔐 Secure authentication
-- 💳 M-Pesa payment integration
-- ⚡ Automatic token loading (no manual entry)
-- 📊 Real-time consumption analytics
-- 📱 Responsive design
-- 🔔 Transaction history
+- Secure authentication
+-  M-Pesa payment integration
+-  Automatic token loading (no manual entry)
+-  Real-time consumption analytics
+-  Responsive design
+-  Transaction history
 
 ## Quick Start
 
@@ -207,3 +207,4 @@ For issues or questions, refer to:
 React docs: https://react.dev
 Tailwind CSS: https://tailwindcss.com
 Lucide icons: https://lucide.dev
+
